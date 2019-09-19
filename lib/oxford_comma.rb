@@ -12,7 +12,7 @@ def oxford_comma(array)
  #new_array.insert(-2,"and ")
  #new_array[0..new_array.length-1].join
  
- #new_array.join
+ new_array.join
  
   if array.length == 1
     array[0]
